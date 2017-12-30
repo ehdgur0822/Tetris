@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31105360168",
+    "project_id": "tetris-62639"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31105360168:android:e37b9facfc67e315",
+        "android_client_info": {
+          "package_name": "com.example.lunaticlemon.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31105360168-3ulspubjt8dhp1ct1j2b1ujc9pq6hgl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lunaticlemon.tetris",
+            "certificate_hash": "aa2a6ad419ed84b01f6bdaea4d8091321401b919"
+          }
+        },
+        {
+          "client_id": "31105360168-aeo7f0lfdaj59ir9gr378talgp6nm4o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4L3-Tz_A_5U8zpiNP9koUzybt64keeJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

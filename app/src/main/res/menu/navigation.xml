@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_battle"
+        android:icon="@drawable/icon_battle"
+        android:title="Battle" />
+
+    <item
+        android:id="@+id/navigation_clan"
+        android:icon="@drawable/icon_clan"
+        android:title="Clan" />
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/icon_user"
+        android:title="User" />
+
+</menu>

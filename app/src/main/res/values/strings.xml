@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="kakao_key">fabf3119a1a604cf4313b8164e6b141d</string>
+    <string name="title_activity_menu_navi">MenuNaviActivity</string>
+</resources>
